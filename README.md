@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+This is my personal github portfolio where I showcase my skills on personal projects
+
+Front-End
+REACT
+TypeScript
+Tailwind
+
+Back-End
+NodeJS
+NEXTJS
+
+Database
+PostGreSQL
+MongoDB
+
+
+
 <!--
 **Nahid8072/Nahid8072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
