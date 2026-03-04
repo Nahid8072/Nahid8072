@@ -2,16 +2,16 @@
 
 This is my personal github portfolio where I showcase my skills on personal projects
 
-Front-End
+-Front-End
 REACT
 TypeScript
 Tailwind
 
-Back-End
+-Back-End
 NodeJS
 NEXTJS
 
-Database
+-Database
 PostGreSQL
 MongoDB
 
