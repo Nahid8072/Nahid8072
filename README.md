@@ -2,7 +2,7 @@
 
 This is my personal github portfolio where I showcase my skills on personal projects
 
-Front-End\n
+-Front-End
 REACT
 TypeScript
 Tailwind
